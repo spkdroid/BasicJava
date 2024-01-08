@@ -1,4 +1,17 @@
-# Java
+<h1 align="center">Getting Started with Java: A Beginner's Guide</h1>
+
+<p align="center">
+  <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
+</p>
+
+<p align="center">  
+Java: Where 'Hello, World!' is just the beginning of an epic adventure!<br>
+</p>
+</br>
+
+<p align="center">
+<img src="/java-logo.png" height=225 width=250/>
+</p>
 
 **Introduction**
 
